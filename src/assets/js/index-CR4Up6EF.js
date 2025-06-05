@@ -1,0 +1,1 @@
+import{u as s,j as t,bS as l}from"./index-C3u0nXyJ.js";function i(){const{t:e}=s();return t.jsx("div",{className:"w-full h-full flex flex-col items-center justify-center",children:t.jsx(l,{status:"403",title:e("dp.login.initDataFailed")})})}export{i as Component};
