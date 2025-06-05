@@ -1,0 +1,1 @@
+import{a as s,j as t,R as l}from"./vendor-BlYRANeV.js";function i(){const{t:e}=s();return t.jsx("div",{className:"w-full h-full flex flex-col items-center justify-center",children:t.jsx(l,{status:"403",title:e("dp.login.initDataFailed")})})}export{i as Component};
